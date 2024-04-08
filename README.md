@@ -24,7 +24,7 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNqdXVhZmp
 
 Postman API key PMAK-661132c8c354020001651883-XXXX
  
-
+Документация по бэку, доступна по ссылке: https://github.com/Aniwylle/giperfm
 
  ## инструкция к запуску 
   - URL  https://fresefeaa.netlify.app
